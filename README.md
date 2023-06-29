@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavitD98
-- 🌱 I’m MERN stack developer
+👨‍💻 I'm a MERN Stack developer
 - 📫 How to reach me - https://www.linkedin.com/in/davit-peshtmajyan-039230231/
 
 <!---
