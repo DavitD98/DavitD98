@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavitD98
-- 🌱 I’m currently learning Front-End Development ...
+- 🌱 I’m MERN stack developer
 - 📫 How to reach me - https://www.linkedin.com/in/davit-peshtmajyan-039230231/
 
 <!---
